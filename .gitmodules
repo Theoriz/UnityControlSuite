@@ -1,9 +1,9 @@
-[submodule "Assets/Plugins/GenUI"]
-	path = Assets/Plugins/GenUI
+[submodule "Plugins/GenUI"]
+	path = Plugins/GenUI
 	url = http://github.com/theoriz/genui
-[submodule "Assets/Plugins/OCF"]
-	path = Assets/Plugins/OCF
+[submodule "Plugins/OCF"]
+	path = Plugins/OCF
 	url = http://github.com/theoriz/ocf
-[submodule "Assets/Plugins/UnityOSC"]
-	path = Assets/Plugins/UnityOSC
+[submodule "Plugins/UnityOSC"]
+	path = Plugins/UnityOSC
 	url = http://github.com/theoriz/UnityOSC
